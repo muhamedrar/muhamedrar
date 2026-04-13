@@ -26,7 +26,7 @@ My work sits at the intersection of Python development and data systems — from
 - Working with real-world, messy data and turning it into usable systems  
 ---
 
-> Sometimes I train a model just to watch it fail spectacularly. It’s therapeutic.
+> I enjoy building things that actually work — and fixing them when they don’t.
 
 
 ---
