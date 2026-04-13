@@ -24,10 +24,6 @@ My work sits at the intersection of Python development and data systems — from
 - Building and maintaining data-driven systems  
 - Applying machine learning to practical problems  
 - Working with real-world, messy data and turning it into usable systems  
----
-
-> I enjoy building things that actually work — and fixing them when they don’t.
-
 
 ---
 
