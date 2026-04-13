@@ -7,28 +7,23 @@
 
 
 <p align="center">
-  <b>Junior Data Scientist | Machine Learning | SQL | Time Series | AI Enthusiast</b>
+  <b>Python Developer | AI & Machine Learning | LLMs | Data Systems</b>
 </p>
 
 ---
 
 ## About Me
 
+Computer Science graduate with hands-on experience building backend systems and working with real-world data. I’ve worked on production databases, automation scripts, and internal tools, focusing on reliability, performance, and practical problem solving.
 
-Computer Science and artificial intelligence graduate with a strong foundation in algorithms, databases, and statistical modeling 
+My work sits at the intersection of Python development and data systems — from building APIs and automation tools to applying machine learning in real use cases. I’m especially interested in how data and backend systems come together to power scalable applications.
 
-I work across SQL, Python, and machine learning pipelines, building end-to-end systems from raw, messy data to structured, explainable models.
-
-### Core Strengths
-- Statistical analysis & experimentation  
-- End-to-end Machine Learning pipelines (data cleaning → modeling → evaluation)  
-- Feature engineering & preprocessing for real-world datasets  
-- Predictive modeling & performance evaluation  
-- Statistical analysis & hypothesis testing for model validation  
-- Experimentation & hyperparameter tuning  
-- Exploratory Data Analysis & visualization to uncover patterns  
-- Working with large-scale datasets efficiently in Python & SQL  
-
+### What I Work With
+- Python for backend logic, automation, and APIs  
+- SQL for data modeling, querying, and performance optimization  
+- Building and maintaining data-driven systems  
+- Applying machine learning to practical problems  
+- Working with real-world, messy data and turning it into usable systems  
 ---
 
 > Sometimes I train a model just to watch it fail spectacularly. It’s therapeutic.
