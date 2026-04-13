@@ -29,6 +29,12 @@ My work sits at the intersection of Python development and data systems — from
 
 ---
 
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamedrar&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
+
+---
+
 ## 🛠 Tech Stack
 
 ### Programming & Scripting
@@ -58,6 +64,8 @@ My work sits at the intersection of Python development and data systems — from
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="70"/>
 
 </div>
+
+---
 
 ## 📫 Connect With Me
 
